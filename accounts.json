@@ -1,0 +1,32 @@
+[
+    {
+        "id": 31433214,
+        "name": "Bob Loukas",
+        "ssn": 123456789,
+        "address": "1234 Main St"
+    },
+    {
+        "id": 31433215,
+        "name": "Vitalik Buterin",
+        "ssn": 123456787,
+        "address": "1234 Ether St"
+    },
+    {
+        "id": 31433216,
+        "name": "Jerome Powell",
+        "ssn": 123456780,
+        "address": "1234 Brrrrr St"
+    },
+    {
+        "id": 31433217,
+        "name": "Satoshi Nakamoto",
+        "ssn": 123456781,
+        "address": "???????"
+    },
+    {
+        "id": 31433218,
+        "name": "Elon Musk",
+        "ssn": 123456782,
+        "address": "1234 Doge St"
+    }
+]
