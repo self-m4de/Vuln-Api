@@ -1,5 +1,8 @@
 [
     {
     "error": "400 bad request: Ensure that you query an id with 'uid' param"
-}
+},
+    {
+    "error": "400 bad request"
+    }
 ]
